@@ -1,4 +1,3 @@
-```markdown
 # Web Application Project
 
 This repository contains the source code for an application built with Next.js and integrated with the Gemini API.
