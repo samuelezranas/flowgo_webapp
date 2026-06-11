@@ -1,0 +1,6 @@
+{
+  "name": "Animated Logo Designer",
+  "description": "Design custom professional vector logos and preview them with smooth, adjustable animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
